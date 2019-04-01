@@ -1,0 +1,17 @@
+body {
+  font-family:"Tahoma", Geneva, sans-serif;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+#list {
+  float: right;
+ padding: 0 200px 40px 0;
+  font-size: 1.35em;
+}
+
+h1{
+  text-align: center;
+}
