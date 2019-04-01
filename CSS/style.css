@@ -1,17 +1,30 @@
 body {
-  font-family:"Tahoma", Geneva, sans-serif;
+  font-family:"Cabin", Helvetica, sans-serif;
 }
 
 .img-circle {
     border-radius: 50%;
 }
 
+#header {
+    float: middle;
+    padding: 0 200px 40px 0;
+    display: inline;
+}
+
+
+
+
 #list {
   float: right;
  padding: 0 200px 40px 0;
-  font-size: 1.35em;
+  font-size: 1em;
 }
 
 h1{
   text-align: center;
+}
+
+nav{
+  font-colour:white
 }
