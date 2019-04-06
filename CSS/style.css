@@ -1,10 +1,13 @@
+body {
+  font-family:"Cabin", Helvetica, sans-serif;
+}
 
 .img-circle {
     border-radius: 50%;
 }
 
 #header {
-    float: middle;
+    float: center;
     padding: 0 200px 40px 0;
     display: inline;
 }

@@ -1,20 +1,28 @@
 body {
-  font-family:'', Helvetica, sans-serif
+  font-family:"Cabin", Helvetica, sans-serif;
 }
 
 .img-circle {
     border-radius: 50%;
 }
 
-h1{
-  font-size: 72;
-  text-align: center;
-  font-weight: 100;
+#header {
+    float: center;
+    padding: 0 200px 40px 0;
+    display: inline;
 }
 
-h2{
-  font-size: 56;
+
+#list {
+  float: right;
+ padding: 0 200px 40px 0;
+  font-size: 1em;
+}
+
+h1{
   text-align: center;
-  font: navy blue;
-  font-weight:100;
+}
+
+nav{
+  font-colour:white
 }
