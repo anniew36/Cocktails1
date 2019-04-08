@@ -1,5 +1,5 @@
 body {
-  font-family:"Cabin", Helvetica, sans-serif;
+  font-family:Candara, "Trebuchet MS", Trebuchet, sans-serif;
 }
 
 .img-circle {
@@ -16,7 +16,7 @@ body {
 #list {
   float: right;
  padding: 0 200px 40px 0;
-  font-size: 1em;
+  font-size: 1.4em;
 }
 
 h1{
